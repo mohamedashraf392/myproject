@@ -4,5 +4,9 @@ int main(){
 
 
     cout<<"hello mohmed ashraf";
+    
+    cout<<"hello mohmed ashraf";
+    
+    cout<<"hello mohmed ashraf";
     return 0;
 }
